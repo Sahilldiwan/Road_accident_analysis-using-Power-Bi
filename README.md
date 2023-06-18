@@ -1,6 +1,7 @@
 # Road_accident_analysis-using-Power-Bi
 
-Requirement:
+**Requirement:**
+
 Clients want to create a road accident dashboard for the years 2021 and 2022 to gain insights on the following requirements:
 
 Primary KPI: Total Casualties and Total Accidents
@@ -18,7 +19,7 @@ Casualties by Area/Location and Day/Night
 Total Casualties and Total Accidents by Location
 
 
-Power BI functionalities learned:
+**Power BI functionalities learned:**
 
 Loading of CSV file
 
